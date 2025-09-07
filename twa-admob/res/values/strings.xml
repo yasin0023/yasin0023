@@ -1,0 +1,6 @@
+<resources>
+    <!-- AdMob placeholder values; do NOT commit real keystore passwords here -->
+    <string name="admob_app_id">ca-app-pub-REPLACE_WITH_ADMOB_APP_ID</string>
+    <string name="admob_banner_unit">ca-app-pub-3823557206870586/6970540289</string>
+    <string name="admob_interstitial_unit">ca-app-pub-REPLACE_WITH_INTERSTITIAL_UNIT</string>
+</resources>
